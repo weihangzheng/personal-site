@@ -12,21 +12,17 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>Weihang Zheng or 郑纬航 </h2>
+        <p><a href="mailto:weihang.zheng@mail.toronto.ca">weihang.zheng@mail.toronto.ca</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hey everyone, I&apos;m Weihang.
+        I&apos;m a post 3rd year coop student in my <a href="https://www.ece.utoronto.ca/">Computer Engineering</a> undergraduate degree at University of Toronto,
+        minoring in Artificial Intellgience and Business. I have previously interned at <a href="https://www.cerebras.net/">Cerebras Systems</a> as a Software Engineer on ML Frameworks team,
+        and <a href="https://www.dsp.utoronto.ca/">UofT Multimedia Lab</a> as a Undergraduate Researcher  on the topic of <a href="https://ieeexplore.ieee.org/document/9679989">Neural Architecture Search</a>.
       </p>
       <ul className="actions">
         <li>
@@ -37,7 +33,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Weihang Zheng <Link to="/">weihangzheng.github.io</Link>.</p>
     </section>
   </section>
 );
