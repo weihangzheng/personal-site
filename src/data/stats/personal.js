@@ -21,17 +21,17 @@ const Age = () => {
 const data = [
   {
     key: 'age',
-    label: 'Orbits around the sun',
+    label: 'Orbits around the center of the Solar System',
     value: <Age />,
   },
   {
     key: 'location',
-    label: 'Current city',
+    label: 'Current Page',
     value: 'Toronto, Canada',
   },
   {
     key: 'birthplace',
-    label: '',
+    label: 'Entrypoint',
     value: 'Chongqing, China',
     link: 'https://en.wikipedia.org/wiki/Chongqing',
   },
@@ -47,7 +47,7 @@ const data = [
   },
   {
     key: 'weight',
-    label: 'Body Weight',
+    label: 'Gravational Force on Earth',
     value: '150 lbs',
   },
   {
