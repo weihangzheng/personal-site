@@ -25,16 +25,45 @@ const data = [
     value: <Age />,
   },
   {
-    key: 'countries',
-    label: 'Countries visited',
-    value: 3,
-    link:
-      'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
-  },
-  {
     key: 'location',
     label: 'Current city',
     value: 'Toronto, Canada',
+  },
+  {
+    key: 'birthplace',
+    label: 'Birthplace',
+    value: 'Chongqing, China',
+    link: 'https://en.wikipedia.org/wiki/Chongqing',
+  },
+  {
+    key: 'height',
+    label: 'Height',
+    value: "5'9 (in the morning)",
+  },
+  {
+    key: 'feet size',
+    label: 'Feet Size',
+    value: 'US 10',
+  },
+  {
+    key: 'weight',
+    label: 'Body Weight',
+    value: '150 lbs',
+  },
+  {
+    key: 'bench press',
+    label: 'Bench Press',
+    value: '210 lbs',
+  },
+  {
+    key: 'chinups',
+    label: 'Consecutive Chin-ups',
+    value: '35',
+  },
+  {
+    key: 'mile',
+    label: 'One Mile Run',
+    value: '4:40',
   },
 ];
 
