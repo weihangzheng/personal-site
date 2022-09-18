@@ -37,7 +37,7 @@ const data = [
   },
   {
     key: 'personality',
-    label: 'Personality Type',
+    label: 'MBTI Personality Type',
     value: 'INTJ-A (94I, 66N, 100T, 100J)',
     link: 'https://www.16personalities.com/intj-personality',
   },
