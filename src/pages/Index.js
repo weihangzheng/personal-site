@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
+const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
+
 const Index = () => (
   <Main
     description={"Weihang Zheng's personal website. Toronto based UofT Computering Engineering Coop student "
@@ -15,6 +17,8 @@ const Index = () => (
           <p>
             React application written with modern Javascript.
           </p>
+          <img src={`${PUBLIC_URL}/images/js.png`} alt="" />
+          <img src={`${PUBLIC_URL}/images/react.png`} alt="" />
         </div>
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
