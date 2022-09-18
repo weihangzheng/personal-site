@@ -17,8 +17,8 @@ const Index = () => (
           <p>
             React application written with modern Javascript.
           </p>
-          <img src={`${PUBLIC_URL}/images/js.png`} alt="" />
-          <img src={`${PUBLIC_URL}/images/react.png`} alt="" />
+          <img src={`${PUBLIC_URL}/images/js.png`} width="100" height="100" alt="" />
+          <img src={`${PUBLIC_URL}/images/react.png`} width="100" height="100" alt="" />
         </div>
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
