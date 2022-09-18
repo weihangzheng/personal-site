@@ -35,6 +35,12 @@ const data = [
     value: 'Chongqing, China',
     link: 'https://en.wikipedia.org/wiki/Chongqing',
   },
+  {
+    key: 'personality',
+    label: 'Personality Type',
+    value: 'INTJ-A (94I, 66N, 100T, 100J)',
+    link: 'https://www.16personalities.com/intj-personality',
+  },
 ];
 
 export default data;
