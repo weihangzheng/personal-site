@@ -31,13 +31,13 @@ const data = [
   },
   {
     key: 'birthplace',
-    label: 'Birthplace',
+    label: '',
     value: 'Chongqing, China',
     link: 'https://en.wikipedia.org/wiki/Chongqing',
   },
   {
     key: 'height',
-    label: 'Height',
+    label: 'Vertical Length',
     value: "5'9 (in the morning)",
   },
   {
