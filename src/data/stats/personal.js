@@ -32,7 +32,7 @@ const data = [
   {
     key: 'birthplace',
     label: 'Entrypoint',
-    value: 'Chongqing, China',
+    value: 'Chongqing, China (重庆， 江北 district)',
     link: 'https://en.wikipedia.org/wiki/Chongqing',
   },
   {

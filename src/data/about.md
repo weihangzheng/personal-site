@@ -5,9 +5,11 @@ I'm a post 3rd year coop student in my Computer Engineering undergraduate degree
 
 # Currently
 
-I'm currently 4/16 months into my PEY Co-op term at UofT, now seeking a (preferably) Toronto based or remote internship position that start's immediately (the earlier the better). I'm comfortable in C, C++, and Python. I'm interested in anything related to any of the topics above, so don't hesitate to reach out to me at weihang.zheng@mail.utoronto.ca or 778-917-6809 if the opportunity sees fit!
+I'm currently 4/16 months into my PEY Co-op term at UofT, now seeking a (preferably) Toronto based or remote internship position that start's immediately (the earlier the better). I'm comfortable in C, C++, and Python. I'm interested in anything related to any of the topics above, so don't hesitate to reach out to me at weihang.zheng@mail.utoronto.ca or 778-917-6809 should the opportunity arise!
 
 # Some history
+
+- 
 
 # I like
 
@@ -17,5 +19,11 @@ I'm currently 4/16 months into my PEY Co-op term at UofT, now seeking a (prefera
 - Summer Olympics
 
 # Travel / Geography
+
+- Chongqing, China (重庆， 江北 district): birthplace
+- Vancouver, Canada (Fraser Heights, Surrey): moved there at age 3 and stayed until college
+- Toronto, Canada (Downtown): mostly stayed and planning to stay for 5 years of college
+- Notable places visited/passed as part of a road trip: Los Angeles USA (Hollywood and Disneyland), Seattle USA, San Diego USA (Seaworld and aircraft carrier), Portland USA, Boise USA, Spokane USA, Whistler CA, Yellowstone and Grand Teton National Parks, Banff National Park 
+- Airports transfered in: Beijing CN (PEK), Shanghai CN (PVG)
 
 # Fun facts
