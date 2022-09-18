@@ -21,7 +21,7 @@ const Age = () => {
 const data = [
   {
     key: 'age',
-    label: 'Current age',
+    label: 'Orbits around the sun',
     value: <Age />,
   },
   {
