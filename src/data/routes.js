@@ -16,6 +16,14 @@ const routes = [
     label: 'Cool Stuff I Did',
     path: '/projects',
   },
+  {
+    label: 'Personal Stats',
+    path: '/stats',
+  },
+  {
+    label: 'Contact',
+    path: '/contact',
+  },
 ];
 
 export default routes;
