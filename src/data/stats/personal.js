@@ -35,36 +35,6 @@ const data = [
     value: 'Chongqing, China',
     link: 'https://en.wikipedia.org/wiki/Chongqing',
   },
-  {
-    key: 'height',
-    label: 'Vertical Length',
-    value: "5'9 (in the morning)",
-  },
-  {
-    key: 'feet size',
-    label: 'Feet Size',
-    value: 'US 10',
-  },
-  {
-    key: 'weight',
-    label: 'Gravational Force on Earth',
-    value: '150 lbs',
-  },
-  {
-    key: 'bench press',
-    label: 'Bench Press',
-    value: '210 lbs',
-  },
-  {
-    key: 'chinups',
-    label: 'Consecutive Chin-ups',
-    value: '35',
-  },
-  {
-    key: 'mile',
-    label: 'One Mile Run',
-    value: '4:40',
-  },
 ];
 
 export default data;
