@@ -1,0 +1,75 @@
+﻿Weihang Zheng 
+https://weihangzheng.github.io/personal-site/ 
+
+
+Education: University of Toronto — Bachelors in Computer Engineering, Minors in Artificial Intelligence and Business, PEY student
+Sep 2019 - May 2024, Dean's Honor Roll all semesters (6x)
+Relevant Courses: Algorithms & DS (93% A+), Programming Fundamentals (92% A+), Computer Fundamentals (94% A+), Software Design (92% A+), Lin Alg (93% A+), Calc 1 (94% A+), Intro to AI (87% A), Computer Networks 1 (85% A), Operating Systems (81% A-), App of ML (84% A-), Fundamentals of ML (83% A-), Digital Systems (85% A)
+	
+
+Toronto, Canada
+(778) 917-6809
+https://www.linkedin.com/in/weihang-zheng/
+weihang.zheng@mail.utoronto.ca 
+
+
+HOBBIES & INTERESTS  
+Running, Swimming, Gym
+	Experiences
+Cerebras Systems — Software Engineering Intern (ML Frameworks)
+Toronto, CA ᐧ May 2022 - Aug 2022
+* Wrote unit tests in Pytest to ensure that a Tensorflow model/estimator can be lowered to MLIR dialects to be compiled on the Cerebras Wafer-Scale engine in different modes of execution 
+* Worked with docker containers, volume mounts, and virtual environments to ensure that customers can run the above lowering locally with the packages given by installing our custom python wheel
+* Used subprocess calls and bash scripts to ensure that different versions of Tensorflow can lower custom-made Tensorflow models to the similar MLIR dialects
+* Fixed race conditions that occurred in CI tests by fixing makefiles and configuring docker container names with uuid 
+* Investigated major bug fixes and code cleanup to the company-wide python auto-formatting tool that relied on autoflake, black, isort
+* Manipulated C++ GRPC code to modify the directories where the above compile artifacts (generated during the lowering) are stored in local directories
+
+
+UofT Multimedia Lab — Undergraduate Researcher
+Toronto, CA ᐧ May 2021 - Aug 2021
+* Neural Architecture Search, NP-hard Channel Size Optimization on Convolutional Neural Networks
+* Devised mathematical metrics and aggregation methods to measure the effectiveness and learnability of individual convolutional layers  
+* Parsed Pytorch models to extract an adjacency lists which tells us which layers (channel sizes) of the model depend on each other
+* Utilized weight transfer techniques to speed up searching performance by ~50%
+* Implemented Genetic Algorithm for Channel Size Optimization using uniform random crossover of channel size lists
+* REDUCED ResNet34’s size by 33% from 15M to 10M while achieving HIGHER test accuracy on the CIFAR 10/100 dataset
+* Published CONetV2 under Professor Kostas Plataniotis
+
+
+Personal Projects
+
+
+Tutoring Company App 
+* Created a simple iOS app from scratch using Swift
+* Lists out all the courses and available teachers for a small tutoring company
+* Parses basic information from csv files
+* Sorts courses based on teachers or teachers based on courses
+
+
+	PUBLICATION
+CONetV2: Efficient Auto-Channel Size Optimization for CNNs - IEEE International Conference on Machine Learning and Applications 2021
+AWARDS
+
+
+NSERC- Undergraduate Student Research Award ($7,700)
+1st place Galaxy Explorer C++ course competition 
+6th place Reversi bot C course competition 
+7th place Traveling Courrier C++ course competition 
+Top 2% Canadian Computing Competition
+SKILLS
+
+
+Programming: C, C++, Python, Bash, Docker, PyPi, Venv
+
+
+ML: PyTorch, TensorFlow
+
+
+Version Control: Git
+
+
+CI: Pytest, Pylint, autoformatters
+
+
+DevOps: Confluence, Jira
