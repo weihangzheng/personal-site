@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpersonal_site=self.webpackChunkpersonal_site||[]).push([[787],{5787:function(e,i,s){s.r(i);s(2791);var t=s(6842),u=s(184);i.default=function(){return(0,u.jsx)(t.Z,{title:"Resume",description:"Weihang Zheng's Resume.",children:(0,u.jsx)("iframe",{title:"myFrame",src:"https://docs.google.com/document/d/e/2PACX-1vTsIuUIf9PpB5ZcLYpAi6JW_xDFHJWduH-e-oEOOTuJ4khjmiru_RPecj1xfJ8ib3uami_zp-iEb6Vw/pub?embedded=true",width:"800",height:"1500"})})}}}]);
+//# sourceMappingURL=787.451e1a6f.chunk.js.map
