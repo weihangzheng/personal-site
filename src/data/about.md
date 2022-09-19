@@ -1,7 +1,7 @@
 
 # Intro
 
-I'm a post 3rd year coop student in my Computer Engineering undergraduate degree at University of Toronto, minoring in Artificial Intellgience and Business. I have previously interned at Cerebras Systems as a Software Engineer on ML Frameworks team, and UofT Multimedia Lab as a Undergraduate Researcher on the topic of Neural Architecture Search. I'm in interested in building new stuff around the topics of Software Engineering/Development, Machine Learning Engineering/Research, Algorithm Design, Operating Systems, and Computer Networks.
+I'm a post 3rd year coop student in my Computer Engineering undergraduate degree at University of Toronto, minoring in Artificial Intellgience and Business. I have previously interned at Cerebras Systems as a Software Engineer on ML Frameworks team, and UofT Multimedia Lab as a Undergraduate Researcher on the topic of Neural Architecture Search, where I published CONetV2 under Professor Kostas Plataniotis. I'm in interested in building new stuff around the topics of Software Engineering/Development, Machine Learning Engineering/Research, Algorithm Design, Operating Systems, and Computer Networks.
 
 # Currently
 
