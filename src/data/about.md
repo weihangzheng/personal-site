@@ -5,7 +5,7 @@ I'm a post 3rd year coop student in my Computer Engineering undergraduate degree
 
 # Currently
 
-I'm currently 4/16 months into my PEY Co-op term at UofT, now seeking a (preferably) Toronto based or remote internship position that starts immediately (the earlier the better). I'm comfortable in C, C++, and Python. I'm interested in anything related to any of the topics above, so don't hesitate to reach out to me at weihang.zheng@mail.utoronto.ca or 778-917-6809 should the opportunity arise!
+I'm currently 4/16 months into my PEY Co-op term at UofT, now seeking a Toronto based or remote internship position that starts immediately (the earlier the better). I'm comfortable in C, C++, and Python. I'm interested in anything related to any of the topics above, so don't hesitate to reach out to me at weihang.zheng@mail.utoronto.ca or 778-917-6809 (but I prefer initial contact via email) should the opportunity arise!
 
 # Some history
 
