@@ -41,6 +41,37 @@ const data = [
     value: 'INTJ-A (94I, 66N, 100T, 100J)',
     link: 'https://www.16personalities.com/intj-personality',
   },
+  {
+    key: 'relationship',
+    label: 'Relationship Status',
+    value: 'Taken',
+    link: 'https://www.linkedin.com/in/melissama-uoft/',
+  },
+  {
+    key: 'height',
+    label: 'Vertical Length',
+    value: "5'9 (in the morning)",
+  },
+  {
+    key: 'weight',
+    label: 'Gravitational Force on Earth',
+    value: '150 lbs',
+  },
+  {
+    key: 'bench press',
+    label: 'Bench Press',
+    value: '210 lbs',
+  },
+  {
+    key: 'chinups',
+    label: 'Consecutive Chin-ups',
+    value: '35',
+  },
+  {
+    key: 'mile',
+    label: 'One Mile Run',
+    value: '4:40',
+  },
 ];
 
 export default data;
