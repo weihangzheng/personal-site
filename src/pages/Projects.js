@@ -14,7 +14,7 @@ const Projects = () => (
     <article className="post" id="projects">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/projects">Cool Stuff I Did</Link></h2>
+          <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
           <p>Anything I&apos;m not too ashamed of!</p>
         </div>
       </header>

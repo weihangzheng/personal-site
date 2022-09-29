@@ -7,7 +7,6 @@ const data = [
     desc:
         'Neural Architecture Search, NP-hard Channel Size Optimization on Convolutional Neural Networks.'
         + 'Devised mathematical metrics and aggregation methods to measure the effectiveness and learnability of individual convolutional layers. '
-        + 'Parsed Pytorch models to extract an adjacency lists which tells us which layers (channel sizes) of the model depend on each other. '
         + 'Utilized weight transfer techniques to speed up searching performance by ~50%. '
         + 'Implemented Genetic Algorithm for Channel Size Optimization using uniform random crossover of channel size lists. '
         + 'REDUCED ResNet34’s size by 33% from 15M to 10M while achieving HIGHER test accuracy on the CIFAR 10/100 dataset. '
@@ -26,26 +25,34 @@ const data = [
     link: 'https://www.eecg.utoronto.ca/~tsa/galaxyexplorer.html',
   },
   {
-    title: '6th place finish APS105 Reversi course competition',
+    title: 'APS105 Reversi/Othello Bot',
     image: '/images/projects/reversi.jpeg',
     date: '2020-04-01',
     desc:
-      'Built a reversi game board and gameplay from scratch in C. '
-      + 'Programmed a bot with alpha-beta pruned minimax search algorithm'
-      + 'and dynamic heuristic evaluation to make the best move. '
-      + 'Utilized transposition tables and Zobrist hashing for code speedup.',
+      'Implemented the board setup and gameplay of Othello in C. '
+      + 'Designed an alpha-beta pruning minimax bot that uses a dynamic heuristic evaluation considering all board states. '
+      + 'Utilized transposition tables and Zobrist Hashing for massive search speedup. '
+      + 'Got 6th place in a class of 300 people. ',
     link: 'https://www.eecg.utoronto.ca/~bli/aps105/?fbclid=IwAR1EQjUEiDyNBZS_NBy3kfK36c06tOQg3iS5DtKMGrlOT4r-3xbHyI4vLo0',
   },
   {
-    title: '7th place finish ECE297 Traveling Courier course competition (group)',
-    image: '/images/projects/tsp.png',
+    title: 'ECE297 Google Maps Project (Group) ',
+    image: '/images/projects/tsp.gif',
     date: '2021-04-01',
     desc:
-      'NP-hard 200+ node Travelling Salesman Problem with additional constraints C++. '
-      + 'Implemented a Multi-Threaded Simulated Annealing Search on candidate paths. '
-      + 'Implemented Dynamic Programming Solution for TSP on short subpaths.'
-      + 'Implemented Geometric Path Uncrossing (2-Opt) Optimization on paths.',
-    link: 'http://ug251.eecg.utoronto.ca/ece297s/contest_2021/final',
+      'Implemented a large-scale Google-maps inspired UI / backend program in C++. '
+      + 'Designed an interactive UI using GTK and EZGL. '
+      + 'Got 7th place in a Traveling Salesman-related NP-C problem using techniques like A*/Dijkstra Search, Simulated Annealing, Multithreading, 2-opt. ',
+    link: 'https://github.com/isidorjkaplan/MapperPublic',
+  },
+  {
+    title: 'ECE243 VGA Graphics Game Project ',
+    image: '/images/projects/game.png',
+    date: '2021-04-01',
+    desc:
+      'Created animated impact detection game in C that takes as input user keystrokes. '
+      + 'The game is implemented by tracking different states as a finite state machine. ',
+    link: 'https://github.com/weihangzheng/ECE243game',
   },
 ];
 

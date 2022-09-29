@@ -13,7 +13,7 @@ const routes = [
     path: '/resume',
   },
   {
-    label: 'Cool Stuff I Did',
+    label: 'Projects',
     path: '/projects',
   },
   {
