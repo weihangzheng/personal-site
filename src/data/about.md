@@ -1,11 +1,11 @@
 
 # Intro
 
-I'm a post 3rd year coop student in my Computer Engineering undergraduate degree at University of Toronto, minoring in Artificial Intellgience and Business. I have previously interned at Cerebras Systems as a Software Engineer on ML Frameworks team, and UofT Multimedia Lab as a Undergraduate Researcher on the topic of Neural Architecture Search, where I published CONetV2 under Professor Kostas Plataniotis. I'm in interested in building new stuff around the topics of Software Engineering/Development, Machine Learning Engineering/Research, Algorithm Design, Operating Systems, and Computer Networks.
+I'm a post-3rd-year coop student in my Computer Engineering undergraduate degree at the University of Toronto, minoring in Artificial Intelligence and Business. I have previously interned at Cerebras Systems as a Software Engineer on ML Frameworks team, and at UofT Multimedia Lab as an Undergraduate Researcher on the topic of Neural Architecture Search, where I published CONetV2 under Professor Kostas Plataniotis. I'm interested in building new stuff around the topics of Software Engineering/Development, Machine Learning Engineering/Research, Algorithm Design, Operating Systems, and Computer Networks.
 
 # Currently
 
-I'm currently 4/16 months into my PEY Co-op term at UofT, now seeking a Toronto based or remote internship position that starts immediately (the earlier the better). I'm comfortable in C, C++, and Python. I'm interested in anything related to any of the topics above, so don't hesitate to reach out to me at weihang.zheng@mail.utoronto.ca or 778-917-6809 (but I prefer initial contact via email) should the opportunity arise!
+I'm currently 4 out of 16 months into my PEY Co-op term at UofT, and now seeking a Toronto-based or remote internship position that starts immediately (the earlier the better). I'm comfortable in C, C++, Python, and Java. I'm interested in anything related to any of the topics above, so don't hesitate to reach out to me at weihang.zheng@mail.utoronto.ca or 778-917-6809 (but I prefer initial contact via email) should the opportunity arise!
 
 # Some history
 
