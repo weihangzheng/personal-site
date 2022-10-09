@@ -20,9 +20,9 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hey everyone, I&apos;m Weihang.
-        I&apos;m a post 3rd year coop student in my <a href="https://www.ece.utoronto.ca/">Computer Engineering</a> undergraduate degree at University of Toronto,
+        I&apos;m a post-3rd-year coop student in my <a href="https://www.ece.utoronto.ca/">Computer Engineering</a> undergraduate degree at University of Toronto,
         minoring in Artificial Intellgience and Business. I have previously interned at <a href="https://www.cerebras.net/">Cerebras Systems</a> as a Software Engineer on ML Frameworks team,
-        and <a href="https://www.dsp.utoronto.ca/">UofT Multimedia Lab</a> as a Undergraduate Researcher  on the topic of Neural Architecture Search,
+        and at <a href="https://www.dsp.utoronto.ca/">UofT Multimedia Lab</a> as a Undergraduate Researcher  on Neural Architecture Search,
         where I published <a href="https://ieeexplore.ieee.org/document/9679989">CONetV2</a> under Professor Kostas Plataniotis.
       </p>
       <ul className="actions">

@@ -1,11 +1,11 @@
 
 # Intro
 
-I'm a post-3rd-year coop student in my Computer Engineering undergraduate degree at the University of Toronto, minoring in Artificial Intelligence and Business. I have previously interned at Cerebras Systems as a Software Engineer on ML Frameworks team, and at UofT Multimedia Lab as an Undergraduate Researcher on the topic of Neural Architecture Search, where I published CONetV2 under Professor Kostas Plataniotis. I'm interested in building new stuff around the topics of Software Engineering/Development, Machine Learning Engineering/Research, Algorithm Design, Operating Systems, and Computer Networks.
-
-# Currently
-
-I'm currently 4 out of 16 months into my PEY Co-op term at UofT, and now seeking a Toronto-based or remote internship position that starts immediately (the earlier the better). I'm comfortable in C, C++, Python, and Java. I'm interested in anything related to any of the topics above, so don't hesitate to reach out to me at weihang.zheng@mail.utoronto.ca or 778-917-6809 (but I prefer initial contact via email) should the opportunity arise!
+I'm interested in building new stuff around the topics of Software Engineering/Development, Machine Learning Engineering/Research, Algorithm Design, Operating Systems, and Computer Networks. I'm a post-3rd-year coop student in my Computer Engineering undergraduate degree at the University of Toronto, minoring in Artificial Intelligence and Business. I have previously interned at Cerebras Systems as a Software Engineer on the Machine Learning Frameworks team and UofT Multimedia Lab as an Undergraduate Researcher on Neural Architecture Search, where I published one paper, CONetV2, under Professor Kostas Plataniotis.
+ 
+I'm now seeking a new internship position. I'm interested in anything related to any of the topics above, so don't hesitate to reach out to me at weihang.zheng@mail.utoronto.ca or 778-917-6809 (I prefer email) should the opportunity arise!
+ 
+I dream of making the world a better place with logic and innovation, a world where there is no bias or discrimination toward anyone, and a world Everyone gets along in a productive and not personal work environment. As a highly logical, efficient analytical INTJ-A, I strive for innovation and improvement in myself and any system around me.
 
 # Some history
 
@@ -39,9 +39,3 @@ I'm currently 4 out of 16 months into my PEY Co-op term at UofT, and now seeking
 - I got my tonsils surgerically removed as a little kid
 - I wore braces for a few years and still have the retainers on
 - I grew all four wisdom teeth but only removed the bottom ones
-
-# I dream of
-
-- Making the world a better place with logic and innovation
-- A world where there is no bias or discrimination towards anyone
-- Everyone gets along in a productive and not personal work environment

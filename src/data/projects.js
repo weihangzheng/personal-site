@@ -5,12 +5,10 @@ const data = [
     image: '/images/projects/paper.gif',
     date: '2022-01-01',
     desc:
-        'Neural Architecture Search, NP-hard Channel Size Optimization on Convolutional Neural Networks.'
-        + 'Devised mathematical metrics and aggregation methods to measure the effectiveness and learnability of individual convolutional layers. '
-        + 'Utilized weight transfer techniques to speed up searching performance by ~50%. '
-        + 'Implemented Genetic Algorithm for Channel Size Optimization using uniform random crossover of channel size lists. '
-        + 'REDUCED ResNet34’s size by 33% from 15M to 10M while achieving HIGHER test accuracy on the CIFAR 10/100 dataset. '
-        + 'Published CONetV2 under Professor Kostas Plataniotis. ',
+        'Formulated DAG extraction from Convolution Neural Networks with up to hundreds of millions of weighted parameters. '
+        + 'Improved Knowledge Distillation weight transfer during Neural Architecture Search to speed up performance by 50%. '
+        + 'Spearheaded and presented the Uniform Crossover Genetic Algorithm for Channel Size Optimization idea to the entire research group, reducing ResNet34’s total parameter size by 33% while achieving higher test accuracy on CIFAR100. '
+        + 'Co-authored one publication, CONetV2, under Professor Kostas Plataniotis, accepted for oral presentation at ICMLA. ',
     link: 'https://ieeexplore.ieee.org/document/9679989',
   },
   {
@@ -29,10 +27,8 @@ const data = [
     image: '/images/projects/reversi.jpeg',
     date: '2020-04-01',
     desc:
-      'Implemented the board setup and gameplay of Othello in C. '
-      + 'Designed an alpha-beta pruning minimax bot that uses a dynamic heuristic evaluation considering all board states. '
-      + 'Utilized transposition tables and Zobrist Hashing for massive search speedup. '
-      + 'Got 6th place in a class of 300 people. ',
+      'Developed in C an AB-pruning Minimax bot with Zobrist hashing and transpositions tables that explores 10000+ states. '
+      + 'Achieved 6th place in a class of 420+ students, 75 of whom beat the professor’s programs to make the final leaderboard. ',
     link: 'https://www.eecg.utoronto.ca/~bli/aps105/?fbclid=IwAR1EQjUEiDyNBZS_NBy3kfK36c06tOQg3iS5DtKMGrlOT4r-3xbHyI4vLo0',
   },
   {
@@ -40,9 +36,9 @@ const data = [
     image: '/images/projects/tsp.gif',
     date: '2021-04-01',
     desc:
-      'Implemented a large-scale Google-maps inspired UI / backend program in C++. '
-      + 'Designed an interactive UI using GTK and EZGL. '
-      + 'Got 7th place in a Traveling Salesman-related NP-C problem using techniques like A*/Dijkstra Search, Simulated Annealing, Multithreading, 2-opt. ',
+      'Generated large-scale Google-maps-inspired UI/backend program that displays 10000+ intersections in any major city. '
+      + 'Placed 7th in class for a Travelling Salesman-related NP-C challenge built on top of the map using techniques such as A*/Dijkstra Search, Simulated Annealing, Multithreading, 2-opt; beat the TA program by 10%. '
+      + 'Collaborated with two other students for this project selected to present to the following year ECE students. ',
     link: 'https://github.com/isidorjkaplan/MapperPublic',
   },
   {
