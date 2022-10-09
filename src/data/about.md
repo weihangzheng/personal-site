@@ -5,7 +5,7 @@ I'm interested in building new stuff around the topics of Software Engineering/D
  
 I'm now seeking a new internship position. I'm interested in anything related to any of the topics above, so don't hesitate to reach out to me at weihang.zheng@mail.utoronto.ca or 778-917-6809 (I prefer email) should the opportunity arise!
  
-I dream of making the world a better place with logic and innovation, a world where there is no bias or discrimination toward anyone, and a world Everyone gets along in a productive and not personal work environment. As a highly logical, efficient analytical INTJ-A, I strive for innovation and improvement in myself and any system around me.
+I dream of making the world a better place with logic and innovation, a world where there is no bias or discrimination toward anyone, and a world everyone gets along in a productive and not personal work environment. As a highly logical, efficient analytical INTJ-A, I strive for innovation and improvement in myself and any system around me.
 
 # Some history
 
